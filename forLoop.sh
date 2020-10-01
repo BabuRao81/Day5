@@ -5,4 +5,4 @@ do
    echo "$counter"
 done
 printf "/n"
-
+ echo "hi"
